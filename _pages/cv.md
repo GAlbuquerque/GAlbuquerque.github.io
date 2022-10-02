@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV].(Gustavo.pdf)
+Here is my [CV](Gustavo.pdf).
 
-<a href="GAlbuquerque.github.io/files/Gustavo.pdf" target="_blank">CV.</a>
 
