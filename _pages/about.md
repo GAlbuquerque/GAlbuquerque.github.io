@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. I am on the 2022-2023 Job Market for Economics. Here is my [CV.](Gustavo.pdf)
+I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. I am on the 2022-2023 Job Market for Economics. 
 
-<a href="galbuquerque.github.io/files/Gustavo.pdf" target="_blank">PDF.</a>
+#Here is my [CV.](Gustavo.pdf)
+
+#<a href="galbuquerque.github.io/files/Gustavo.pdf" target="_blank">PDF.</a>
 
 
 A data-driven personal website
