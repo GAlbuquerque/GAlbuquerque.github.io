@@ -11,5 +11,5 @@ redirect_from:
 
 Here is my [CV].(Gustavo.pdf)
 
-<a href="GAlbuquerque/galbuquerque.github.io/files/Gustavo.pdf" target="_blank">CV.</a>
+<a href="Galbuquerque.github.io/files/Gustavo.pdf" target="_blank">CV.</a>
 
