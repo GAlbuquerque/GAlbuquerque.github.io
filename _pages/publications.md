@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. Here is my [research statement].(res_statement2.pdf)
 
-### Research
 <br/>
 
 * [From Violence to Violence? The Long Term
