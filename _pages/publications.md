@@ -8,8 +8,8 @@ I am an Applied Microeconomist with an interest in understanding violence. My re
 
 <br/>
 
-* [From Violence to Violence? The Long Term
-Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf) 
+* <span style="color:green;font-weight:700;font-size:40px"> [From Violence to Violence? The Long Term
+Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf)  </span>
 
 This paper studies the long term impact of large scale temporary violence
 in long term homicide rates. I analyze the case of Guatemala’s
