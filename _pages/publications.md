@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<style>body {text-align: right}</style>
+
 I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. Here is my [research statement].(res_statement2.pdf)
 
 <br/>
@@ -39,6 +41,9 @@ National Historic Police Archive </span>
 This project explore police archives produced at a time when Guatemala had an authoritarian government fighting a leftist insurrection. I am leveraging recent machine learning developments (eg. OCR, Topic Modelling) to transcribe the whole police archive, organize it and quantify its contents in an automated and easily replicable way. In the next months, I will investigate how much police effort was directed to different goals, like combating robbery or repressing political dissent. Additionally, I will research how this effort varied with time and space, and whether this variation was correlated with the political changes Guatemala went through the studied period (1980-1990). 
 
 <br/>
+
+<style>body {text-align: justify}</style>
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
