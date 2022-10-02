@@ -8,7 +8,7 @@ I am an Applied Microeconomist with an interest in understanding violence. My re
 
 <br/>
 
-* <span style="color:green;font-weight:700;font-size:20px"> [From Violence to Violence? The Long Term
+* <span style="color:black;font-weight:700;font-size:20px"> [From Violence to Violence? The Long Term
 Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf)  </span>
 
 This paper studies the long term impact of large scale temporary violence
@@ -21,7 +21,7 @@ evidence that such relation is causal. Generalized trust is also higher in
 municipalities with more massacres, suggesting a mechanism connecting
 past violence and present peace through increased local cohesion.
 
-* <span style="color:green;font-weight:700;font-size:20px">Indigenous communities and the containment of drug-war
+* <span style="color:black;font-weight:700;font-size:20px">Indigenous communities and the containment of drug-war
 violence </span>
 
 Following a policy of increased repression to drug trade, Mexico experienced a large increase
@@ -33,7 +33,7 @@ to have the presence of a major Drug Trade Organization and their inhabitants we
 to be imprisoned by drug-trade related crimes. Finally, I show that within indigenous majority municipalities, the
 ones with autonomous institutions are the ones with less homicides, less DTO presence and less imprisonment for drug-trade related offenses.
 
-* <span style="color:green;font-weight:700;font-size:20px"> Civil-Police relations in an authoritarian context: An exploration of the Guatemalan
+* <span style="color:black;font-weight:700;font-size:20px"> Civil-Police relations in an authoritarian context: An exploration of the Guatemalan
 National Historic Police Archive </span>
 
 This project explore police archives produced at a time when Guatemala had an authoritarian government fighting a leftist insurrection. I am leveraging recent machine learning developments (eg. OCR, Topic Modelling) to transcribe the whole police archive, organize it and quantify its contents in an automated and easily replicable way. In the next months, I will investigate how much police effort was directed to different goals, like combating robbery or repressing political dissent. Additionally, I will research how this effort varied with time and space, and whether this variation was correlated with the political changes Guatemala went through the studied period (1980-1990). 
