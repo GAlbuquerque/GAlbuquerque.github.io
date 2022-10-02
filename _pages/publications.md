@@ -7,12 +7,12 @@ author_profile: true
 <style>body {text-align: justify}</style>
 
 
-I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. Here is my [research statement].(res_statement2.pdf)
+I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. Here is my [research statement](/files/res_statement2.pdf).
 
 <br/>
 
 * <span style="color:black;font-weight:700;font-size:20px"> [From Violence to Violence? The Long Term
-Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf)  </span>
+Effects of Conflict on Homicide Rates](/files/Violence_to_Violence.pdf)  </span>
 
 This paper studies the long term impact of large scale temporary violence
 in long term homicide rates. I analyze the case of Guatemala’s
