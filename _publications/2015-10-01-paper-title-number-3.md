@@ -11,7 +11,6 @@ Exploring precipitation variation as an instrument for massacres, I provide
 evidence that such relation is causal. Generalized trust is also higher in
 municipalities with more massacres, suggesting a mechanism connecting
 past violence and present peace through increased local cohesion.'
-
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/Violence_to_Violence.pdf'
