@@ -12,7 +12,8 @@ redirect_from:
 
 
 
-I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. I am on the 2022-2023 Job Market for Economics. 
+I am a PhD candidate at the [Vancouver School of Economics at the University of British Columbia](https://economics.ubc.ca/). I am studying topics at the intersection of crime, political economy and history. I am on the 2022-2023 Job Market for Economics. 
+
 
 <style>body {text-align: justify}</style>
 
