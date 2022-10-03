@@ -8,12 +8,17 @@ author_profile: true
 
 
 
-I am instructor of Principles of Microeconomics at the [Corpus Christi College](https://corpuschristi.ca/) and teaching assitant of Intermediate Microeconomics at the [University of British Columbia](https://economics.ubc.ca/). In the past I have also taught Econometrics, Environmental Economics, and MA level Microeconomics.
+I am an instructor of Principles of Microeconomics at the [Corpus Christi College](https://corpuschristi.ca/) and teaching assitant of Intermediate Microeconomics at the [University of British Columbia](https://economics.ubc.ca/). In the past I have also taught Econometrics, Environmental Economics, and MA level Microeconomics.
 
 My [teaching philosophy](/files/teaching_statement2.pdf) emphasizes critical thinking and authonomy. I also strive to create an inviting and fun environment in my classes. Here is a [sample syllabus](/files/syllabus.pdf).
 
 <style>body {text-align: justify}</style>
 
+| Course                              | Position           | Year |   |   |
+|-------------------------------------|--------------------|------|---|---|
+| Principles of Microeconomics        | Instructor         | 2022 |   |   |
+| Intermediate Microeconomic Analysis | Teaching Assistant | 2022 |   |   |
+|                                     |                    |      |   |   |
 
 
 {% include base_path %}
