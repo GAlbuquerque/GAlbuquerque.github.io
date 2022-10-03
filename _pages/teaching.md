@@ -15,6 +15,8 @@ My [teaching philosophy](/files/teaching_statement2.pdf) emphasizes critical thi
 
 <style>body {text-align: justify}</style>
 
+### Teaching Experience
+
 | Course                                                        | Institution                                        | Position           | Year |
 |---------------------------------------------------------------|----------------------------------------------------|--------------------|------|
 | Principles of Microeconomics                                  | Corpus Christi College                             | Instructor         | 2022 |
