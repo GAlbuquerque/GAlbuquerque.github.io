@@ -19,11 +19,11 @@ My research interests are at the intersection of crime, political economy and hi
 
 ### CV, Teaching and Research Statements
 
-[CV](/files/res_statement2.pdf)
+[CV](/files/Gustavo.pdf)
 
 [Teaching Statement](/files/res_statement2.pdf)
 
-[Research Statement](/files/res_statement2.pdf)
+[Research Statement](/files/teaching_statement2.pdf)
 
 
 ### Education
