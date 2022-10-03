@@ -37,7 +37,7 @@ My [teaching philosophy](/files/teaching_statement2.pdf) emphasizes critical thi
 | Intermediate Microeconomic Analysis                           | University of British Columbia                     | Teaching Assistant | 2018 |
 | Economics of The Environment                                  | University of British Columbia                     | Teaching Assistant | 2018 |
 | Microeconomics I (MA)                                         | Pontifícia Universidade Católica do Rio de Janeiro | Teaching Assistant | 2015 |
-| Intermediate Microeconomics                                   | Universidade Federal Fluminense                    | Teaching Assistant | 2012 |
+| Intermediate Microeconomics I                                  | Universidade Federal Fluminense                    | Teaching Assistant | 2012 |
 | Differential Calculus I                                       | Universidade Federal Fluminense                    | Teaching Assistant | 2011 |
 | Differential Calculus II                                      | Universidade Federal Fluminense                    | Teaching Assistany | 2011 |
 {% include base_path %}
