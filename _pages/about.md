@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-I am a PhD candidate at the [Vancouver School of Economics at the University of British Columbia](https://economics.ubc.ca/). My research studies is at the intersection of crime, political economy and history. I am on the 2022-2023 Job Market for Economics. 
+I am a PhD candidate at the [Vancouver School of Economics at the University of British Columbia](https://economics.ubc.ca/). My research interests are at the intersection of crime, political economy and history. I am on the 2022-2023 Job Market for Economics. 
 
 
 <style>body {text-align: justify}</style>
