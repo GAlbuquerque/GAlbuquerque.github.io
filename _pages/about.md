@@ -15,7 +15,7 @@ redirect_from:
 I am a PhD candidate at the [Vancouver School of Economics at the University of British Columbia](https://economics.ubc.ca/). I am on the 2022-2023 Job Market for Economics. 
 
 ### Research Interests
-My research interests are at the intersection of crime, political economy and history. 
+My research interests are in Applied Microeconomics. My current research is at the intersection of crime, political economy and history. 
 
 ### CV, Teaching and Research Statements
 
