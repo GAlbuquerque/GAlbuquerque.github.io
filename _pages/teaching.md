@@ -20,21 +20,20 @@ My [teaching philosophy](/files/teaching_statement2.pdf) emphasizes critical thi
 | Course                                                        | Institution                                        | Position           | Year |
 |---------------------------------------------------------------|----------------------------------------------------|--------------------|------|
 | Principles of Microeconomics                                  | Corpus Christi College                             | Instructor         | 2022 |
-| Intermediate Microeconomic Analysis                           | University of British Columbia                     | Teaching Assistant | 2022 |
+| Intermediate Microeconomic Analysis I                          | University of British Columbia                     | Teaching Assistant | 2022 |
 | Economics Refresher Course for International Relations Majors | University of British Columbia                     | Instructor         | 2022 |
 | Principles of Microeconomics                                  | University of British Columbia                     | Teaching Assistant | 2022 |
 | Intermediate Microeconomics II                                | University of British Columbia                     | Teaching Assistant | 2021 |
 | Advanced Empirical Methods for International Economics        | University of British Columbia                     | Teaching Assistant | 2021 |
 | Principles of Microeconomics                                  | University of British Columbia                     | Teaching Assistant | 2021 |
-| Intermediate Microeconomic Analysis                           | University of British Columbia                     | Teaching Assistant | 2020 |
-| Intermediate Microeconomic Analysis                           | University of British Columbia                     | Teaching Assistant | 2020 |
+| Intermediate Microeconomic Analysis I                          | University of British Columbia                     | Teaching Assistant | 2020 |
+| Intermediate Microeconomic Analysis I                          | University of British Columbia                     | Teaching Assistant | 2020 |
 | Intermediate Microeconomics I                                 | University of British Columbia                     | Teaching Assistant | 2020 |
 | Economics Analysis of Law                                     | University of British Columbia                     | Teaching Assistant | 2020 |
 | Intermediate Microeconomic Analysis I                         | University of British Columbia                     | Teaching Assistant | 2019 |
 | Introduction to Econometrics I                                | University of British Columbia                     | Teaching Assistant | 2019 |
 | Principles of Microeconomics                                  | University of British Columbia                     | Teaching Assistant | 2019 |
 | Intermediate Microeconomic Analysis I                         | University of British Columbia                     | Teaching Assistant | 2018 |
-| Intermediate Microeconomic Analysis                           | University of British Columbia                     | Teaching Assistant | 2018 |
 | Economics of The Environment                                  | University of British Columbia                     | Teaching Assistant | 2018 |
 | Microeconomics I (MA)                                         | Pontifícia Universidade Católica do Rio de Janeiro | Teaching Assistant | 2015 |
 | Intermediate Microeconomics I                                  | Universidade Federal Fluminense                    | Teaching Assistant | 2012 |
