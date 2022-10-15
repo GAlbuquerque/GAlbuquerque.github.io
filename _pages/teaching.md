@@ -39,7 +39,7 @@ My [teaching philosophy](/files/teaching_statement2.pdf) emphasizes critical thi
 | Microeconomics I (MA)                                         | Pontifícia Universidade Católica do Rio de Janeiro | Teaching Assistant | 2015 |
 | Intermediate Microeconomics I                                  | Universidade Federal Fluminense                    | Teaching Assistant | 2012 |
 | Differential Calculus I                                       | Universidade Federal Fluminense                    | Teaching Assistant | 2011 |
-| Differential Calculus II                                      | Universidade Federal Fluminense                    | Teaching Assistany | 2011 |
+| Differential Calculus II                                      | Universidade Federal Fluminense                    | Teaching Assistant | 2011 |
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
