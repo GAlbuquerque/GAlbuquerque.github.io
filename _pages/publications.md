@@ -7,7 +7,7 @@ author_profile: true
 <style>body {text-align: justify}</style>
 
 
-I am an Applied Microeconomist with an interest in understanding violence. My research employs historical and administrative data to understand determinants and consequences of crime and political repression, with a focus in Guatemala and Mexico. Here is my [research statement](/files/res_statement2.pdf).
+I am an Applied Microeconomist with an interest in understanding violence. My research employs historical and administrative data to explore the determinants and consequences of crime and political repression, with a focus in Guatemala and Mexico. Here is my [research statement](/files/res_statement2.pdf).
 
 <br/>
 
