@@ -21,7 +21,7 @@ My research interests are in Applied Microeconomics. My current research is at t
 
 [CV](/files/Gustavo.pdf)
 
-[Teaching Statement](/files/teaching_statement2.pdf)
+[Teaching Statement](/files/teaching_statement3.pdf)
 
 [Research Statement](/files/res_statement2.pdf)
 
