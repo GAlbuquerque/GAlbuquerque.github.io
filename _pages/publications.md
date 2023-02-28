@@ -36,8 +36,7 @@ to have the presence of a major Drug Trade Organization and their inhabitants we
 to be imprisoned by drug-trade related crimes. Finally, I show that within indigenous majority municipalities, the
 ones with autonomous institutions are the ones with less homicides, less DTO presence and less imprisonment for drug-trade related offenses.
 
-* <span style="color:black;font-weight:700;font-size:20px"> Civil-Police relations in an authoritarian context: An exploration of the Guatemalan
-National Historic Police Archive </span>
+* <span style="color:black;font-weight:700;font-size:20px"> Civil-Police relations in an authoritarian context: An exploration of the Guatemalan National Police Historical Archive </span>
 
 This project explore police archives produced at a time when Guatemala had an authoritarian government fighting a leftist insurrection. I am leveraging recent machine learning developments (eg. OCR, Topic Modelling) to transcribe the whole police archive, organize it and quantify its contents in an automated and easily replicable way. In the next months, I will investigate how much police effort was directed to different goals, like combating robbery or repressing political dissent. Additionally, I will research how this effort varied with time and space, and whether this variation was correlated with the political changes Guatemala went through the studied period (1980-1990). 
 
